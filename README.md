@@ -1,4 +1,6 @@
-# Summer Research Intern Readme
+## Demo
+
+https://github.com/innocentmchry/SaveThePig/assets/103591230/7a7417bc-8e1f-49f3-a7ce-55c14c0ed297
 
 ## Indian Institute of Technology Guwahati
 
