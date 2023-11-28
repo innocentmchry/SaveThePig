@@ -1,6 +1,4 @@
-## Demo
 
-https://github.com/innocentmchry/SaveThePig/assets/103591230/7a7417bc-8e1f-49f3-a7ce-55c14c0ed297
 
 ## Indian Institute of Technology Guwahati
 
@@ -22,6 +20,10 @@ The primary goal of the project was to explore the integration of emotion recogn
 - **Graphics Rendering:** Utilized Canvas to enhance the visual appeal of the game and create an engaging user experience.
 - **Facial Detection:** Implemented facial detection using OpenCV to track and analyze facial features during gameplay.
 - **Emotion Recognition:** Integrated TensorFlow Lite for real-time emotion recognition, allowing the game to adapt based on the player's emotional state.
+
+## Demo
+
+https://github.com/innocentmchry/SaveThePig/assets/103591230/7a7417bc-8e1f-49f3-a7ce-55c14c0ed297
 
 ## Getting Started
 
