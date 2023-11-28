@@ -8,6 +8,8 @@ Welcome to the repository documenting my work as a Summer Research Intern at the
 
 The primary goal of the project was to explore the integration of emotion recognition and facial detection functionalities into an Android game. This involved the use of Android Studio's robust development environment, Canvas for graphics rendering, OpenCV for facial detection, and TensorFlow Lite for emotion recognition.
 
+Introducing "Save the Pig" - where an adorable little pig need your help to dodge rockets. When you're happy, the game level increases making the game a little more challenging. But when you feel sad or angry, the game level decreases making it easier to score! The GameView class encapsulates the logic for a simple mobile game where players control a pig character to avoid falling rockets. The view, initialized with bitmaps for background, ground, and pig, manages game elements such as points, life, and multiple levels. Touch input allows players to maneuver the pig horizontally, while the game adjusts difficult based on consecutive emotion detections, influencing number of rockets. A health bar reflects the pig's remaining life, and the class uses a handler to delay level changes for smoother transitions. 
+
 ## Technologies Used
 
 - **Android Studio:** Leveraged the powerful Android Studio IDE for Android app development.
