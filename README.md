@@ -35,8 +35,6 @@ To explore and run the project on your local machine, follow these steps:
 
 ## Acknowledgments
 
-I would like to express my gratitude to the Indian Institute of Technology Guwahati for providing me with the opportunity to work on this exciting and challenging project. Special thanks to my mentors for their guidance and support throughout the internship.
-
-Feel free to explore the code and documentation to gain insights into the implementation of Affective Gaming in Android!
+I extend my sincere gratitude to the Indian Institute of Technology Guwahati for the invaluable opportunity to contribute to this thrilling project. Special thanks to my mentors, Dr. Samit Bhattacharya and Mr. Nilotpal Das, for their unwavering guidance and support during the internship. I am also grateful to Dr. Ranjan Maity for providing me with the opportunity to work on this impactful project.
 
 Happy coding! 🚀
